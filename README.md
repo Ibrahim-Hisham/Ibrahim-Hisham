@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="60%"/> <br>
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Workspace" width="40%"/><br>
+
 
 <details>
 <p><strong><summary> Busy coding & creating content 🎧 </summary></strong></p>
