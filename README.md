@@ -1,46 +1,59 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ibrahim+Hisham+%F0%9F%91%8B;Full+Stack+Web+Developer;ICPC+Team+Leader+%26+Competitive+Programmer;Tech+Content+Creator+on+YouTube" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-<img src="https://komarev.com/ghpvc/?username=Ibrahim-Hisham&style=flat-square&color=blue" alt="Profile Views"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=I'm+Ibrahim+Hisham;Full+Stack+Web+Developer;Tech+Content+Creator;ICPC+Team+Leader" />
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ibrahim-Hisham&style=flat&color=orange&label=PROFILE+VIEWS)
+<br>
 </div>
 
----
+<hr></hr>
 
-# 👨‍💻 About Me
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tech%20Stack-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![DaVinci](https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat&logo=davinciresolve&logoColor=white)
 
 ```javascript
-const ibrahim = {
-  name: "Ibrahim Hisham",
-  role: "Full Stack Web Developer & Tech Content Creator",
-  education: "1st-year student at HICMIS",
-  motto: "Learning by teaching others",
-  goal: "Become an ICPC Champion and build impactful tech projects",
-  skills: ["Leadership", "Fast Learning", "Communication"]
+// About Me Organized
+
+const ibrahimHisham = {
+    "Role": "Full Stack Web Developer & Content Creator",
+    "Education": "1st Year Student at HICMIS",
+    "CurrentFocus": ["Problem Solving with C++20", "Web Dev"],
+    "Leadership": "ICPC Team Leader",
+    "Projects": {
+        "Platform": "almolahsaty.site",
+        "Brand": "Lego Codex"
+    },
+    "Motto": "Learning by teaching others"
 };
-🎓 1st-year student at High Institute for Computer Science & Management Information Systems (HICMIS).
+I’m currently refining my skills in C++ 20 for ICPC.
 
-💻 Passionate about Web Development & building clean UI/UX.
 
-🧠 Active in Competitive Programming (ICPC Team Leader).
+I enjoy building Full Stack Web applications.
 
-🎥 Teaching coding in simple ways for beginners on YouTube.
 
-🚀 Founder of Lego Codex & almolahsaty.site.
+Ask me about Web Dev, ICPC, or Content Creation.
 
-🛠 Tech Stack
-🌐 Languages & Frontend
-🏆 Problem Solving
-Preparing for ICPC 2026 with C++20 standards.
 
-⚙️ Tools & Environment
-🎥 My Content Creation (Lego )
-I create educational content to simplify programming for everyone. My mission is to bridge the gap between complex concepts and absolute beginners.
+My YouTube: Lego 
 
-📺 YouTube: Lego  Channel
 
-🌐 Platform: almolahsaty.site
+Follow me on Facebook
 
-🤝 Connect With Me
+
+Fun fact: I believe that teaching is the best way to master any craft.
+
+
 📊 GitHub Stats
+Code Cycle
