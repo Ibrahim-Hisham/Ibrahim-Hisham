@@ -5,14 +5,13 @@
 
 
 <details>
-<p><strong><summary> Busy coding & creating content 🎧 </summary></strong></p>
+<p><strong><summary> Subscribe to my YouTube channel </summary></strong></p>
 
 [![YouTube](https://img.shields.io/badge/Watch-My_Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Lego_Codex)
 
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ibrahim-Hisham&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ibrahim-Hisham&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=VISITS&edge_flat=false)
+
 
 [![YouTube Badge](https://img.shields.io/badge/Lego_Codex-red?style=flat&logo=youtube)](https://www.youtube.com/@Lego_Codex)
 [![Website Badge](https://img.shields.io/badge/Almolahsaty-blue?style=flat&logo=google-chrome)](https://almolahsaty.site)
