@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=I'm+Ibrahim+Hisham;Full+Stack+Web+Developer;Tech+Content+Creator;ICPC+Team+Leader" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=I'm+Ibrahim+Hisham;Full+Stack+Web+Developer;Tech+Content+Creator" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ibrahim-Hisham&style=flat&color=orange&label=PROFILE+VIEWS)
 <br>
