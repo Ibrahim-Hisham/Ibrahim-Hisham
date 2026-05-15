@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ibrahim+Hisham+%F0%9F%91%8B;Full+Stack+Web+Developer;Tech+Content+Creator+on+YouTube" />
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" heigh= 180px; width="60%"/> <br>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" heigh= 200px width="60%"/> <br>
 
 
 <details>
