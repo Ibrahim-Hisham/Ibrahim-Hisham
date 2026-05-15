@@ -80,67 +80,64 @@ Helping beginners learn programming in a simple Arabic style.
 
 ---
 
-## 🌍 Connect with me
+## 🌍 Connect With Me
 
 <div align="center">
 
-<a href="https://wa.me/201017965690">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+### 💬 Social & Contact
 
-<a href="tel:+201017965690">
-<img src="https://img.shields.io/badge/Phone-0088cc?style=for-the-badge&logo=googlevoice&logoColor=white"/>
+<a href="https://wa.me/201017965690">
+<img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=61577544669488">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/ibrahem_id/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@Lego_Codex">
+<img src="https://img.shields.io/badge/YouTube-Lego_Codex-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="https://almolahsaty.site">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Website-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Ibrahim-Hisham">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Hisham&show_icons=true&theme=tokyonight" width="32.5%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Hisham&layout=compact&theme=tokyonight" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibrahim-Hisham&theme=tokyonight" width="32.5%">
-
-</div>
-
-<details>
-<summary>More stats</summary>
-
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Ibrahim-Hisham&theme=tokyo-night" />
-
-</details>
-
-<hr></hr>
-
-## Code Cycle
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Hisham&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Hisham&layout=compact&theme=tokyonight" width="48%" />
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibrahim-Hisham&theme=tokyo-night" width="95%"/>
+
+</div>
+
+---
+
+## ⚡ Coding Mindset
+
+<div align="center">
+
+> "I don’t just write code. I build systems."
+
+</div>
 <div align="center">
 
 ### 🚀 Learning. Building. Teaching.
